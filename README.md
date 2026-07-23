@@ -1,5 +1,9 @@
 # 🎛️ Bruce HUD Themes
 
+[![Bruce firmware](https://img.shields.io/badge/firmware-Bruce-8A2BE2?logo=github)](https://github.com/BruceDevices/firmware) [![Device](https://img.shields.io/badge/device-LilyGO%20T--Embed%20CC1101-1E90FF)](https://github.com/BruceDevices/firmware) [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+
+> **EN** — Three "instrument / HUD" UI themes for the **[Bruce firmware](https://github.com/BruceDevices/firmware)** on the LilyGO T-Embed CC1101 (320×170). Each menu entry shows a clean technical Material icon on a blueprint background with a subtle animated light sweep. Colorways: **Amber**, **White**, **Blue**. Copy a theme folder to the SD card, then pick it in `Config → UI Theme`.
+
 Thèmes UI « instrument / HUD » pour le firmware **[Bruce](https://github.com/BruceDevices/firmware)**, pensés pour le **LilyGO T-Embed CC1101** (écran 320×170). Chaque entrée du menu affiche une **icône technique propre** (jeu d'icônes Material) sur un fond « blueprint » avec un **léger balayage de lumière animé**.
 
 ![Aperçu des 3 coloris](docs/hero.png)
