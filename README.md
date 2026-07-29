@@ -65,4 +65,4 @@ Si ces thèmes te plaisent :
 <img src="docs/paypal-qr.png" width="180" alt="PayPal" />
 
 ## 📄 Licence
-Code/assets du dépôt sous **MIT** (voir [LICENSE](LICENSE)). Icônes Material sous Apache 2.0. Thèmes par **koua29** (Arnaud).
+Code/assets du dépôt sous **MIT** (voir [LICENSE](LICENSE)). Icônes Material sous Apache 2.0. Thèmes par **koua29**.
