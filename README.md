@@ -49,6 +49,16 @@ Conçu pour le **LilyGO T-Embed CC1101** (320×170). Fonctionne aussi sur les ci
 ## 🎨 Crédits icônes
 Icônes basées sur **[Material Icons](https://github.com/google/material-design-icons)** de Google — licence **Apache 2.0**.
 
+## 🛒 Matériel / Hardware
+
+Le matériel utilisé pour ce projet — liens affiliés Amazon :
+
+| [<img src="docs/hw-lilygo.jpg" width="200" alt="LilyGO T-Embed CC1101 avec antennes">](https://link.amazon/B0cgD7wou) | [<img src="docs/hw-lilygo-black.jpg" width="200" alt="LilyGO T-Embed CC1101 noir">](https://link.amazon/B071fmsbH) | [<img src="docs/hw-antenna.jpg" width="200" alt="Kit d'antennes SMA">](https://link.amazon/B0eMlSqeZ) |
+|:---:|:---:|:---:|
+| 🔌 **[LilyGO T-Embed CC1101](https://link.amazon/B0cgD7wou)**<br><sub>avec antennes</sub> | ⬛ **[LilyGO T-Embed CC1101](https://link.amazon/B071fmsbH)**<br><sub>noir, sans antenne</sub> | 📡 **[Kit d'antennes SMA](https://link.amazon/B0eMlSqeZ)** |
+
+<sub>En tant que Partenaire Amazon, je réalise un bénéfice sur les achats remplissant les conditions requises. · As an Amazon Associate I earn from qualifying purchases.</sub>
+
 ## ☕ Un café ?
 Si ces thèmes te plaisent :
 
@@ -56,15 +66,3 @@ Si ces thèmes te plaisent :
 
 ## 📄 Licence
 Code/assets du dépôt sous **MIT** (voir [LICENSE](LICENSE)). Icônes Material sous Apache 2.0. Thèmes par **koua29** (Arnaud).
-
----
-
-## 🛒 Matériel / Hardware
-
-Le matériel utilisé pour ce projet — liens affiliés Amazon :
-
-| [<img src="docs/hw-lilygo.jpg" width="240" alt="LilyGO T-Embed CC1101">](https://link.amazon/B0cgD7wou) | [<img src="docs/hw-antenna.jpg" width="240" alt="Kit d'antennes SMA">](https://link.amazon/B0eMlSqeZ) |
-|:---:|:---:|
-| 🔌 **[LilyGO T-Embed CC1101](https://link.amazon/B0cgD7wou)** | 📡 **[Kit d'antennes SMA](https://link.amazon/B0eMlSqeZ)** |
-
-<sub>En tant que Partenaire Amazon, je réalise un bénéfice sur les achats remplissant les conditions requises. · As an Amazon Associate I earn from qualifying purchases.</sub>
